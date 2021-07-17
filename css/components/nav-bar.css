@@ -18,25 +18,11 @@ body {
   color: inherit;
 }
 .nav__notification {
-  background-color: tomato;
-  display: flex;
-  width: 20px;
-  height: 20px;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  border-radius: 50%;
-  font-weight: 600;
-  font-size: x-small;
   position: absolute;
   left: 22px;
   bottom: 17px;
 }
 .nav__dot {
-  background-color: tomato;
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
   position: absolute;
   right: -5px;
   top: -12px;
